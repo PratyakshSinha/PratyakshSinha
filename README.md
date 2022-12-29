@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratyakshSinha
-- 👀 My interests are computer science, gaming and esports
-- 🌱 I’m currently pursuing engineering in computer science
+- 👀 I am a computer science, gaming, C++ and esports enthusiast.
+- 🌱 I’m currently pursuing engineering in computer science.
 - 💞️ I’m looking to collaborate on anything random and fun.
 - 📫 You can reach me at pratyakshsinha1234@gmail.com
 
