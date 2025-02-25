@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratyakshSinha
 - 👀 I am a computer science, gaming, C++ and esports enthusiast.
-- 🌱 I’m currently pursuing engineering in computer science.
+- 🌱 Currently working as a C++ developer.
 - 💞️ I’m looking to collaborate on anything random and fun.
 - 📫 You can reach me at pratyakshsinha1234@gmail.com
 
