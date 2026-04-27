@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @PratyakshSinha
-- 👀 I am a computer science, gaming, C++ and esports enthusiast.
-- 🌱 Currently working as a C++ developer.
-- 💞️ I’m looking to collaborate on anything random and fun.
-- 📫 You can reach me at pratyakshsinha1234@gmail.com
+# `PratyakshSinha();` 
 
-<!---
-PratyakshSinha/PratyakshSinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```cpp
+while(alive) {
+    eat();
+    sleep();
+    code();   // mostly C++
+    run();
+}
+```
+
+---
+
+### 🔧 What I work with
+- **C++ / Qt / QML** — cross-platform apps at Enpass
+- **Multithreading, Boost.Asio, CMake** — the unsexy stuff that actually matters
+- **3D Math** — currently building a geometry library from scratch
+
+### 🚀 Projects
+- [**miniredis**](https://github.com/PratyakshSinha/miniredis) — Redis-like in-memory store with TCP server & multithreaded client
+- [**geo3d**](https://github.com/PratyakshSinha/geo3D) — 3D geometry library in C++ (WIP)
+
+### 📫 Reach me
+- 📧 pratyakshsinha1234@gmail.com
+- 🐦 [@PratyakshS15](https://twitter.com/PratyakshS15)
+- 🧩 [LeetCode](https://leetcode.com/pratyakshsinha1234/)
