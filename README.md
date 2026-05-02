@@ -1,15 +1,4 @@
-# `PratyakshSinha();` 
-
-```cpp
-while(alive) {
-    eat();
-    sleep();
-    code();   // mostly C++
-    run();
-}
-```
-
----
+# `Pratyaksh Sinha` 
 
 ### 🔧 What I work with
 - **C++ / Qt / QML** — cross-platform apps at Enpass
