@@ -1,7 +1,7 @@
 # `Pratyaksh Sinha` 
 
 ### 🔧 What I work with
-- **C++ / Qt / QML** — cross-platform apps at Enpass
+- **C++ / Qt / QML** — cross-platform apps
 - **Multithreading, Boost.Asio, CMake** — the unsexy stuff that actually matters
 - **3D Math** — currently building a geometry library from scratch
 
